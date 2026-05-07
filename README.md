@@ -10,8 +10,10 @@ git clone https://github.com/Dag0uJia0/autoqqweb.git ~/.claude/skills/autoqqweb
 ### Linux
 ```
 rm -rf ~/.claude/skills/autoqqweb
+rm -rf ~/.claude/skills/test-skill
 ```
 ### Win
 ```
 rm -Recurse -Force ~/.claude/skills/autoqqweb
+rm -Recurse -Force ~/.claude/skills/test-skill
 ```
