@@ -20,10 +20,10 @@ rm -Recurse -Force ~/.claude/skills/test-skill
 ## 更新
 ### Linux
 ```
-cd ~/.claude/skills/secknowledge && git pull origin main
+cd ~/.claude/skills/autoqqweb && git pull
 ```
-### Win
+### Win powershell
 ```
-cd C:\Users\30483\.claude\skills\secknowledge
-git pull origin main
+cd $env:USERPROFILE\.claude\skills\autoqqweb
+git pull
 ```
