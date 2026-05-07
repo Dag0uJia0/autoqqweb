@@ -17,3 +17,13 @@ rm -rf ~/.claude/skills/test-skill
 rm -Recurse -Force ~/.claude/skills/autoqqweb
 rm -Recurse -Force ~/.claude/skills/test-skill
 ```
+## 更新
+### Linux
+```
+cd ~/.claude/skills/secknowledge && git pull origin main
+```
+### Win
+```
+cd C:\Users\30483\.claude\skills\secknowledge
+git pull origin main
+```
