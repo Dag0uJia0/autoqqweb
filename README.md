@@ -5,3 +5,13 @@
 ## Claude Code
 ```
 git clone https://github.com/Dag0uJia0/autoqqweb.git ~/.claude/skills/autoqqweb
+```
+## 卸载
+### Linux
+```
+rm -rf ~/.claude/skills/autoqqweb
+```
+### Win
+```
+rm -Recurse -Force ~/.claude/skills/autoqqweb
+```
